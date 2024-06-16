@@ -33,4 +33,8 @@ Step 10: Evaluating the model using classification_report, confusion_matrix and 
 
 ![creditcard_result](https://github.com/AabshaarShaikh20/Credit-Card-Fraud-Detecton-Machine-Learning-Project/assets/169930813/65e978e3-3436-4e43-9be6-51c387f6e438)
 
- 
+
+ #### Author - Aabshaar Shaikh
+
+#### Email  - aabshaarshaikh@gmail.com 
+
